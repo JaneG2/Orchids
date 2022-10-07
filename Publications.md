@@ -1,6 +1,6 @@
 ---
 title: Members
-layout: Members
+layout: Publications
 ---
 
 
