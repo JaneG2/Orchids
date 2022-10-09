@@ -1,5 +1,0 @@
----
-layout: Orchid_Anatomy
----
-
-
