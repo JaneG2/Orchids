@@ -1,6 +1,6 @@
 ---
-title: Swamp Orchids
-layout: Swamp_Orchids
+title: Swamp Orchids 
+layout: Swamp_orchids 
 ---
 
 
