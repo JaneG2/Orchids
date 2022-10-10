@@ -1,5 +1,5 @@
 ---
-Orchid Structures 
+Orchid: Structures 
 layout: Orchid_Anatomy 
 ---
 
