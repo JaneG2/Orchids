@@ -1,6 +1,6 @@
 ---
-title: NZ Native Orchid Group activities
-layout: Archives
+title: General Archives 
+layout: Archives 
 ---
 
 
