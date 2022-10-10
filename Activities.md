@@ -1,5 +1,5 @@
 ---
-title: NZ Native Orchid Group activities
+title: Activities
 layout: Activities
 ---
 
