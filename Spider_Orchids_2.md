@@ -1,6 +1,6 @@
 ---
-title: Spider Orchids 1
-layout: Spider_orchids_1
+title: Spider Orchids 2
+layout: Spider_orchids_2
 ---
 
 
