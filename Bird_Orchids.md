@@ -1,5 +1,0 @@
----
-layout: Bird_Orchids
----
-
-
