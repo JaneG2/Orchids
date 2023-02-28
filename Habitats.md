@@ -1,5 +1,6 @@
 ---
-layout: Habitats
+title: Habitats 
+layout: default 
 ---
 
 

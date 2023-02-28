@@ -1,5 +1,6 @@
 ---
-layout: Code_of_Conduct
+title: Code of Conduct 
+layout: default 
 ---
 
 

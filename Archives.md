@@ -1,6 +1,6 @@
 ---
 title: General Archives 
-layout: Archives 
+layout: default 
 ---
 
 

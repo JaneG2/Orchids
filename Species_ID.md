@@ -1,6 +1,6 @@
 ---
-title: Species Key
-layout: Species_ID
+title: Species Keys 
+layout: default 
 ---
 
 
