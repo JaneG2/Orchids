@@ -1,5 +1,5 @@
 ---
 title: NZ Native Orchid Group
 layout: default
----
-# {{ page.title }} 
+outp: "Index_body.html" 
+--- 
