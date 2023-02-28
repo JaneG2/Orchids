@@ -1,6 +1,6 @@
 ---
-title: Activities
-layout: default
+title: Activities 
+layout: default 
 ---
 
 
