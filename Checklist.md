@@ -1,6 +1,0 @@
----
-title: Checklist 
-layout: default 
----
-
-
