@@ -1,5 +1,5 @@
 ---
 title: NZ Native Orchid Group
-layout: default
-outp: "Index_body.html" 
---- 
+layout: Index
+outp: "Index_body.html"
+---

@@ -1,5 +1,5 @@
 ---
 title: Spider Orchids 2
-layout: default
+layout: Keys
 outp: "Spider_Orchids_2_body.html"
 ---

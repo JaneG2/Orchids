@@ -1,5 +1,5 @@
 ---
 title: Sun Orchids Key
-layout: default 
+layout: Keys 
 outp: "Sun_Orchids_Key_body.html"
 ---
