@@ -1,0 +1,14 @@
+.inat-widget { font-family: Georgia, serif; padding: 10px 0px 5px 5px; line-height: 1;}
+.inat-widget-header {margin-bottom: 10px;}
+.inat-widget td {vertical-align: top; padding-bottom: 10px;}
+.inat-label { color: #888; }
+.inat-meta { font-size: smaller; margin-top: 3px; line-height: 1.2;}
+.inat-observation-body, .inat-user-body { padding-left: 10px; }
+.inat-observation-image {text-align: center;}
+.inat-observation-image, .inat-user-image { width: 48px; display: inline-block; }
+.inat-observation-image img, .inat-user-image img { max-width: 48px;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px; -moz-box-shadow: 2px 2px 5px #696969;-webkit-box-shadow: 2px 2px 5px #696969;box-shadow: 2px 2px 5px #696969; }
+.inat-observation-image img { vertical-align: middle; }
+.inat-widget-small .inat-observation-image { display:block; float: left; margin: 0 3px 3px 0; height:48px;}
+.inat-label, .inat-value, .inat-user { font-family: "Trebuchet MS", Arial, sans-serif; font-weight:normal;}
+.inat-user-body {vertical-align: middle;}
+.inat-widget td.inat-user-body {vertical-align: middle;}
