@@ -1,0 +1,16 @@
+{% include head.html %}
+{% include Main_Scripts_descr.html %}
+<script type="text/javascript" src="../scripts/MM_swapImgRestore.js"></script>
+<script type="text/javascript" src="../scripts/p7IRMscripts.js"></script>
+<link href="../scripts/p7IRM02.css" rel="stylesheet" type="text/css" media="all" />
+<!script type="text/javascript" src="../scripts/showpic.js"></script>
+</head>
+
+<body>
+{% include NavBar.html %}
+{% include Nav_Menu_Descr.html %}
+{% include Page_setup.html %}
+      <tr>
+{% include_relative /_body/{{ page.outp }} %} 
+</td></tr></table>
+{% include footer.html %}
