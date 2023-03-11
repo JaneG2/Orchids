@@ -1,5 +1,5 @@
 ---
 title: Checklist
-layout: Checklist
+layout: Keys
 outp: "Checklist_body.html"
 ---
