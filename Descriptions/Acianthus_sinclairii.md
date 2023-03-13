@@ -1,6 +1,6 @@
 ---
 title: Acianthus_sinclairii 
-layout: Acisin 
+layout: Descriptions_Layout 
 outp: "Acianthus_sinclairii_body.html"
 ---
 
