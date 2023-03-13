@@ -1,6 +1,6 @@
 ---
 title: Species Key
-layout: default
+layout: Keys
 outp: "Species_ID_body.html"
 ---
 
