@@ -1,0 +1,147 @@
+/*
+  -------------------------------------
+  Curvitude by Project Seven Development
+  www.projectseven.com
+  Layout 07: 3 column Hz Nav Basic
+  -------------------------------------
+*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-image:url(../Graphics/bodybg3.jpg);
+	background-repeat:repeat-x;
+	background-color: #fbffe6;
+	margin: 0;
+	padding: 0;
+	margin-top:10px;
+}
+#masthead {
+	background-color: #FFFFFF;
+	color: #999999;
+	margin: 12px auto 0 auto;
+	width: 982px;
+}
+#menu {
+	background-color: #FFFFFF;
+	padding: 0;
+	height: 40px;
+}
+
+#columntop {
+	clear: both;
+	background-image: url(../Graphics/Header21.jpg);
+	background-repeat: no-repeat;
+	height: 80px;
+}
+#columnwrapper {
+	margin: 0 auto;
+	width: 982px;
+	background-image: url(../Graphics/middle2.jpg);
+	background-repeat: repeat-y;
+}
+#c1 {
+	float: center;
+	padding-top: 0px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:20px;
+}
+
+
+#c1 .content {
+	color: #CCCCCC;
+	font-size: 0.8em;
+	padding: 16px 32px 16px 32px;
+	line-height: 1.6em;
+}
+
+h1 {
+	font-size: 1em;
+	letter-spacing: 0.2em;
+}
+h2 {
+	font-size: 1.1em;
+	letter-spacing: .2em;
+}
+h3 {
+	font-size: 1em;
+}
+.topZero {
+	margin-top: 0;
+}
+#columnbottom {
+	clear: both;
+	background-image: url(../Graphics/footer4.jpg);
+	background-repeat: no-repeat;
+	height: 28px;
+}
+#footer {
+	margin: 0px auto;
+	font-size: 0.7em;
+	width: 982px;
+}
+#footercontent {
+	padding: 14px;
+	text-shadow: #FFF 0 1px 0;
+}
+.clearfloat {
+	clear: both;
+	height: 0;
+	line-height: 0.0;
+	font-size: 0;
+}
+#pagetop {
+	height: 2px;
+	width: 100%;
+	background-image: url(../Graphics/greydot3.gif);
+	background-repeat:repeat;
+}
+#pagetop2 {
+	height: 10px;
+	width: 100%;
+	background-color:transparent;
+}
+/*Default Links - Applies to the Main Content Column*/
+.content a:link {
+	color: #5785BD;
+}
+.content a:visited {
+	color: #757575;
+}
+.content a:hover, .content a:focus, .content a:active {
+	color: #FFFFFF;
+}
+/*
+Left Sidebar Links - We add .content to the selector name to 
+make it more specific and to eliminate conflicts with the main navigation bar
+*/
+#c1 .content a:link {
+	color: #003399;
+}
+#c1 .content a:visited {
+	color: #663366;
+}
+#c1 .content a:hover, #c1 .content a:focus, #c1 .content a:active {
+	color: #3366FF;
+}
+/*Right Sidebar Links*/
+#c3 a:link {
+	color: #FFFFFF;
+}
+#c3 a:visited {
+	color: #2F4F53;
+}
+#c3 a:hover, #c3 a:focus, #c3 a:active {
+	color: #000000;
+}
+/*Footer Links*/
+#footer a:link {
+	color: #003399;
+}
+#footer a:visited {
+	color: #663366;
+}
+#footer a:hover, #footer a:focus, #footer a:active {
+	color: #3366FF;
+}
